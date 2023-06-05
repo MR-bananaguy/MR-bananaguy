@@ -1,0 +1,4 @@
+- Hi, I’m MR-bananaguy
+- I’m interested in game devolopment
+- I’m currently learning HTML5 and javascript
+- I want to learn C#
